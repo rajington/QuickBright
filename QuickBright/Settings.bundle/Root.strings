@@ -1,0 +1,15 @@
+/* 
+ Root.strings
+ QuickBright
+ 
+ Created by Rajarshi Nigam 27/12/11.
+ MIT License
+*/
+
+"QUICK_SWITCH_TITLE" = "Quick Switch";
+"QUICK_SWITCH_DESCRIPTION" = "Quick Switch performs an action immediately instead of launching the app.";
+"QUICK_SWITCH_MODE_DISABLED" = "Disabled";
+"QUICK_SWITCH_MODE_SWITCH" = "Switch the Brightness and Exit";
+"QUICK_SWITCH_MODE_SYSTEM" = "Set the System Brightness";
+"HIGH_BRIGHTNESS" = "High Brightness Setting";
+"LOW_BRIGHTNESS" = "Low Brightness Setting";
